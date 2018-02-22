@@ -1,0 +1,6 @@
+h1 {
+  font-family: Arial;
+  color: green;
+  -webkit-box-shadow: 1px 1px 1px black;
+          box-shadow: 1px 1px 1px black;
+  text-align: center; }
